@@ -1,0 +1,6 @@
+package sec02.exam01;
+public class TryCatchFinallyExample {
+public static void main(String[] args) {
+	Class clazz = Class. forName("String2");
+}
+}
